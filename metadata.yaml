@@ -1,0 +1,37 @@
+_repo: Baumeister-Solne---Schauspiel-in-drei-Aufz-gen_23679
+_version: 0.1.0
+alternative_title: 'Baumeister Solness: Schauspiel in drei Aufzügen'
+contributor:
+  translator:
+    agent_name: Ibsen, Sigurd
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '25986'
+    url: http://www.gutenberg.org/2009/agents/25986
+    wikipedia: http://en.wikipedia.org/wiki/Sigurd_Ibsen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2007-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23679'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PT'
+title: 'Baumeister Solneß: Schauspiel in drei Aufzügen'
+url: http://www.gutenberg.org/ebooks/23679
